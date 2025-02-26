@@ -1,6 +1,6 @@
 <div align="center">
     <picture align="center" width="360">
-        <img align="center" width="100" height="100" alt="OpenJS Foundation" src="/profile/logo.svg">
+        <img align="center" width="100" height="100" alt="OpenJS Foundation" src="https://github.com/openjs-foundation/artwork/blob/HEAD/openjs_foundation/openjs_foundation-icon-color.svg">
     </picture>
 </div>
 
