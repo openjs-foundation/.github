@@ -1,7 +1,13 @@
-# OpenJS Foundation GitHub Configuration
+<div align="center">
+    <picture align="center" width="360">
+        <img align="center" width="100" height="100" alt="OpenJS Foundation" src="/profile/logo.svg">
+    </picture>
+</div>
 
-This repository contains GitHub-related configuration for the `openjs-foundation` GitHub organization.
+<h3 align="center">The OpenJS Foundation is the open and neutral home for JavaScript communities.</h3>
 
-## [`/profile`](./profile/README.md)
+<div align="center">
 
-This directory contains the contents of the OpenJS Foundation organization profile `README.md` at [github.com/openjs-foundation](https://github.com/openjs-foundation).
+[Join the Slack workspace](https://slack-invite.openjsf.org)
+
+</div>
