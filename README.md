@@ -1,1 +1,1 @@
-{% include_relative profile/README.md %}
+[README](profile/README.md)
