@@ -9,7 +9,7 @@
 
 * [Visit our website](https://openjsf.org)
 * [Explore our projects](https://github.com/openjs-foundation/cross-project-council#openjs-foundation-projects)
-* [Get involved with our Cross Project Council (CPC)](https://github.com/openjs-foundation/cross-project-council#cross-project-council)
+* [Get involved with the Cross Project Council (CPC)](https://github.com/openjs-foundation/cross-project-council#cross-project-council)
 * [Join our Collab Spaces](https://github.com/openjs-foundation/cross-project-council#openjs-collaboration-spaces)
 * [Learn more about our security efforts or report a vulnerability](https://github.com/openjs-foundation/security-collab-space)
 * [Join us on Slack](https://slack-invite.openjsf.org/)
