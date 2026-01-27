@@ -7,13 +7,16 @@
 
 ---
 
-* [Visit our website](https://openjsf.org)
-* [Explore our projects](https://github.com/openjs-foundation/cross-project-council#openjs-foundation-projects)
-* [Get involved with the Cross Project Council (CPC)](https://github.com/openjs-foundation/cross-project-council#cross-project-council)
-* [Join our Collab Spaces](https://github.com/openjs-foundation/cross-project-council#openjs-collaboration-spaces)
-* [Learn more about our security efforts or report a vulnerability](https://github.com/openjs-foundation/security-collab-space)
-* [Join us on Slack](https://slack-invite.openjsf.org/)
+The OpenJS Foundation is the open and neutral home for JavaScript and web technologies worldwide. 
 
+OpenJS supports the people behind critical projects with a neutral home, open, and transparent governance, shared infrastructure, and collaboration – so we can all focus on solving problems together.
+
+* [Website](https://openjsf.org/)  
+* [Projects](https://github.com/openjs-foundation/cross-project-council?tab=readme-ov-file#openjs-foundation-projects) \- you definitely use some of these  
+* [Cross Project Council](https://github.com/openjs-foundation/cross-project-council) \- The technical governing body of OpenJS.  
+* [Collaboration Spaces / working groups](https://github.com/openjs-foundation/cross-project-council)  
+* [Security](https://github.com/openjs-foundation/security-collab-space)
+* [Slack](https://slack-invite.openjsf.org/)
 ---
 
 OpenJS is an independent organization hosted at the Linux Foundation. 
