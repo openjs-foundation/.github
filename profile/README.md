@@ -12,7 +12,7 @@ The OpenJS Foundation is the open and neutral home for JavaScript and web techno
 OpenJS supports the people behind critical projects with a neutral home, open, and transparent governance, shared infrastructure, and collaboration – so we can all focus on solving problems together.
 
 * [Website](https://openjsf.org/)  
-* [Projects](https://github.com/openjs-foundation/cross-project-council?tab=readme-ov-file#openjs-foundation-projects) \- you definitely use some of these  
+* [Projects](https://github.com/openjs-foundation/cross-project-council?tab=readme-ov-file#openjs-foundation-projects) \- You definitely use some of these!
 * [Cross Project Council (CPC)](https://github.com/openjs-foundation/cross-project-council) \- The technical governing body of OpenJS.  
 * [Collaboration Spaces / working groups](https://github.com/openjs-foundation/cross-project-council)  
 * [Security](https://github.com/openjs-foundation/security-collab-space)
