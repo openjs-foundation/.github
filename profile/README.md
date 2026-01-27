@@ -13,7 +13,7 @@ OpenJS supports the people behind critical projects with a neutral home, open, a
 
 * [Website](https://openjsf.org/)  
 * [Projects](https://github.com/openjs-foundation/cross-project-council?tab=readme-ov-file#openjs-foundation-projects) \- you definitely use some of these  
-* [Cross Project Council](https://github.com/openjs-foundation/cross-project-council) \- The technical governing body of OpenJS.  
+* [Cross Project Council (CPC)](https://github.com/openjs-foundation/cross-project-council) \- The technical governing body of OpenJS.  
 * [Collaboration Spaces / working groups](https://github.com/openjs-foundation/cross-project-council)  
 * [Security](https://github.com/openjs-foundation/security-collab-space)
 * [Slack](https://slack-invite.openjsf.org/)
